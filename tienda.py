@@ -170,5 +170,4 @@ while 1:
         print(f"----------Total a pagar: {precio}----------")
         inventario.mostrar_carrito()
         exit()
-        
     
