@@ -1,14 +1,15 @@
 # Tienda_Ropa_POOBootcamp
 
-Como usar:
+Como usar: <br />
 
--Introducir en forma de cadena el tipo de vestimenta de la tienda
--Ingresar detalles del producto elegido (ver lista de productos abajo)
--Para terminar su compra presione cualquier tecla, recibira el monto a pagar
-y los detalles de cada producto
+-Introducir en forma de cadena el tipo de vestimenta de la tienda <br />
+-Ingresar detalles del producto elegido (ver lista de productos abajo) <br />
+-Para terminar su compra presione cualquier tecla, recibira el monto a pagar <br />
+y los detalles de cada producto <br />
 
-Productos:
+Productos: <br />
 
+```
 productos = {
     "camisa" : {
         "color" : {
@@ -50,3 +51,4 @@ productos = {
     }
 
 }
+```
